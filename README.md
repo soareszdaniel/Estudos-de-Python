@@ -14,3 +14,9 @@ Este é um simples gerenciador de tarefas desenvolvido em Python. Ele permite ad
 1. Clone o repositório:
    ```bash
    git clone https://github.com/soareszdaniel/todo-list.git
+2. Navegue até odiretório do projeto:
+   ```bash
+   cd todo-list
+3. Execute o script principal:
+   ```bash
+   python main.py
